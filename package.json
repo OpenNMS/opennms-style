@@ -1,0 +1,15 @@
+{
+  "name": "opennms-style",
+  "version": "0.1.0",
+  "description": "OpenNMS common style components",
+  "author": "Benjamin Reed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OpenNMS/opennms-style/issues"
+  },
+  "homepage": "https://github.com/OpenNMS/opennms-style",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OpenNMS/opennms-style.git"
+  }
+}
