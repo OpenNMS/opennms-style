@@ -1,20 +1,27 @@
 $opennms-severity-critical-light: #f5cdcd;
 $opennms-severity-critical-dark: #cc0000;
+$opennms-severity-critical-icon: "fa-bomb";
 
 $opennms-severity-major-light: #ffd7cd;
 $opennms-severity-major-dark: #ff3300;
+$opennms-severity-major-icon: "fa-fire";
 
 $opennms-severity-minor-light: #ffebcd;
 $opennms-severity-minor-dark: #ff9900;
+$opennms-severity-minor-icon: "fa-bolt";
 
 $opennms-severity-warning-light: #fff5cd;
 $opennms-severity-warning-dark: #ffcc00;
+$opennms-severity-warning-icon: "fa-exclamation-triangle";
 
 $opennms-severity-indeterminate-light: #ebebcd;
 $opennms-severity-indeterminate-dark: #999000;
+$opennms-severity-indeterminate-icon: "fa-question-circle";
 
 $opennms-severity-normal-light: #d7e1cd;
 $opennms-severity-normal-dark: #336600;
+$opennms-severity-normal-icon: "fa-leaf";
 
 $opennms-severity-cleared-light: #eeeeee;
 $opennms-severity-cleared-dark: #999999;
+$opennms-severity-cleared-icon: "fa-check-circle";
