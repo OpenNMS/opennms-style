@@ -1,0 +1,60 @@
+@font-face {
+  font-family: 'Open Sans';
+  src: url('OpenSans-Light.woff2?v=1.101') format('woff2'), url('OpenSans-Light.woff?v=1.101') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Open Sans';
+  src: url('OpenSans-LightItalic.woff2?v=1.101') format('woff2'), url('OpenSans-LightItalic.woff?v=1.101') format('woff');
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Open Sans';
+  src: url('OpenSans-Regular.woff2?v=1.101') format('woff2'), url('OpenSans-Regular.woff?v=1.101') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Open Sans';
+  src: url('OpenSans-Italic.woff2?v=1.101') format('woff2'), url('OpenSans-Italic.woff?v=1.101') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Open Sans';
+  src: url('OpenSans-Semibold.woff2?v=1.101') format('woff2'), url('OpenSans-Semibold.woff?v=1.101') format('woff');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Open Sans';
+  src: url('OpenSans-SemiboldItalic.woff2?v=1.101') format('woff2'), url('OpenSans-SemiboldItalic.woff?v=1.101') format('woff');
+  font-weight: 600;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Open Sans';
+  src: url('OpenSans-Bold.woff2?v=1.101') format('woff2'), url('OpenSans-Bold.woff?v=1.101') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Open Sans';
+  src: url('OpenSans-BoldItalic.woff2?v=1.101') format('woff2'), url('OpenSans-BoldItalic.woff?v=1.101') format('woff');
+  font-weight: bold;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Open Sans';
+  src: url('OpenSans-ExtraBold.woff2?v=1.101') format('woff2'), url('OpenSans-ExtraBold.woff?v=1.101') format('woff');
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Open Sans';
+  src: url('OpenSans-ExtraBoldItalic.woff2?v=1.101') format('woff2'), url('OpenSans-ExtraBoldItalic.woff?v=1.101') format('woff');
+  font-weight: 800;
+  font-style: italic;
+}
