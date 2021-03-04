@@ -1,2 +1,55 @@
+/* branding fonts */
+
+@import url('fonts/OpenSans/opensans.css');
+@import url('fonts/Inter/web/inter.css');
+
+/* branding base colors */
+
+$opennms-sea-green: #85D9A5;
+$opennms-sea-green-75: mix($opennms-sea-green, white, 0.75);
+$opennms-sea-green-50: mix($opennms-sea-green, white, 0.50);
+$opennms-sea-green-25: mix($opennms-sea-green, white, 0.25);
+
+$opennms-sky-blue: #14D1DF;
+$opennms-sky-blue-75: mix($opennms-sky-blue, white, 0.75);
+$opennms-sky-blue-50: mix($opennms-sky-blue, white, 0.50);
+$opennms-sky-blue-25: mix($opennms-sky-blue, white, 0.25);
+
+$opennms-marine-blue: #0081AD;
+$opennms-marine-blue-75: mix($opennms-marine-blue, white, 0.75);
+$opennms-marine-blue-50: mix($opennms-marine-blue, white, 0.50);
+$opennms-marine-blue-25: mix($opennms-marine-blue, white, 0.25);
+
+$opennms-aurora-purple: #7289FF;
+$opennms-aurora-purple-75: mix($opennms-aurora-purple, white, 0.75);
+$opennms-aurora-purple-50: mix($opennms-aurora-purple, white, 0.50);
+$opennms-aurora-purple-25: mix($opennms-aurora-purple, white, 0.25);
+
+$opennms-dawn-maroon: #A5325E;
+$opennms-dawn-maroon-75: mix($opennms-dawn-maroon, white, 0.75);
+$opennms-dawn-maroon-50: mix($opennms-dawn-maroon, white, 0.50);
+$opennms-dawn-maroon-25: mix($opennms-dawn-maroon, white, 0.25);
+
+$opennms-twilight-red: #FF555E;
+$opennms-twilight-red-75: mix($opennms-twilight-red, white, 0.75);
+$opennms-twilight-red-50: mix($opennms-twilight-red, white, 0.50);
+$opennms-twilight-red-25: mix($opennms-twilight-red, white, 0.25);
+
+$opennms-sunrise-yellow: #FFAF22;
+$opennms-sunrise-yellow-75: mix($opennms-sunrise-yellow, white, 0.75);
+$opennms-sunrise-yellow-50: mix($opennms-sunrise-yellow, white, 0.50);
+$opennms-sunrise-yellow-25: mix($opennms-sunrise-yellow, white, 0.25);
+
+$opennms-chromatic-black: #0A0C1B;
+$opennms-dark-blue: #131736;
+$opennms-cool-gray-4: #494C67;
+$opennms-cool-gray-3: #7E8198;
+$opennms-cool-gray-2: #B4B6C8;
+$opennms-cool-gray-1: #E9EBF9;
+
+/* legacy colors */
+
 $opennms-core-horizon: #4c9d29;
 $opennms-core-meridian: #237cb7;
+
+$opennms-core-link-color: #265a87;
