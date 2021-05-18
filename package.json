@@ -1,6 +1,6 @@
 {
   "name": "opennms-style",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "OpenNMS common style components",
   "author": "Benjamin Reed",
   "license": "MIT",
